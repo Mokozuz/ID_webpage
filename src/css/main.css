@@ -1,0 +1,17 @@
+
+body {
+	display: flex;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background: #1c010a;
+	align-items: center;
+	justify-content: center;
+
+}
+
+img {
+	border-radius: 10px;
+	padding-top: 20em;
+	height: 200px;
+	max-width: 600px;
+}
